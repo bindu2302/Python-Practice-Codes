@@ -1,5 +1,5 @@
 # If string if holding integer then it can be converted into int.
-a = '30'
+a = '40'
 print(a,type(a))
 b = int(a)
 print(b,type(b))
@@ -19,6 +19,8 @@ q = ''
 print(q,type(q))
 q=bool(q)
 print(q,type(q))
+
+
 
 
 ''' 
