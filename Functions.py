@@ -1,4 +1,4 @@
-# Without input and without return statement
+# Without input and without a return statement
 
 def add():
     a=10
@@ -59,7 +59,7 @@ def search_book(book_title, available_books):
 def view_books(available_books):
     print("Available books:", available_books)
 
-# Example usage
+
 available_books = ['Harry Potter', '1984', 'Pride and Prejudice']
 
 view_books(available_books)
