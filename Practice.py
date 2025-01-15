@@ -10,5 +10,5 @@ print(bool(1))          # True
 print(int(12.56))       # 12
 
 # Taking float value from the user and converting it into int
-value = int(float(input('Enter price: Float value)))
+value = int(float(input('Enter price: Float value')))
 print(value, type(value))
